@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Alloha Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Alloha Regular'), url('Alloha-51n6G.woff') format('woff');
+    }
+
+h1 {
+  font-family: 'Alloha Regular';
+  font-weight: 500;
+}
