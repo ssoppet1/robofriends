@@ -2,6 +2,10 @@
 
 [Robofriends React App](https://ssoppet1.github.io/robofriends/)
 
+# Robofriends
+
+A React app project for ZTM Web Developer course.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
